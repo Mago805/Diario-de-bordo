@@ -1,35 +1,35 @@
 criaCartao(
     'Diário de Bordo', 
     'Qual foi o destino?', 
-    'Informar o destino da viagem.', 
-)
+    'O destino foi Berlim, Alemanha.'
+);
 
 criaCartao(
     'Custo da Viagem', 
     'Qual foi o custo total dessa viagem por pessoa e qual a modalidade de aquisição?', 
-    'Informar o valor na moeda original do local e o valor convertido para R$. Informar se a aquisição foi via agência de viagens ou aquisição de forma independente '
-)
+    'O custo total da viagem foi de R$30.664,49 por pessoa. A viagem foi adquirida por meio de um pacote da CVC, com a modalidade de compra através de agência de viagens.'
+);
 
 criaCartao(
     'Fato Curioso', 
-    'Uma curiosidade sobre cidade/ponto turístico/país cisitado!', 
-    'Informar através de um breve texto uma curiosidade.'
-)
+    'Uma curiosidade sobre cidade/ponto turístico/país visitado!', 
+    'Berlim é famosa por seu Muro, que dividiu a cidade durante a Guerra Fria, e hoje o Memorial do Muro de Berlim é um local de visitação histórica.'
+);
 
 criaCartao(
     'Passeios', 
     'Onde passear?', 
-    'Informar os locais, breve resumo do que são.'
-)
+    'Em Berlim, os principais passeios incluem o Portão de Brandemburgo, o Memorial do Holocausto, e a Ilha dos Museus, que abriga alguns dos museus mais importantes da cidade.'
+);
 
 criaCartao(
     'Prato Típico', 
     'Conhece o "nome do prato"?', 
-    'Explicar sobre o prato, porque o escolheu e o ingrediente principal.'
-)
+    'O prato típico alemão que experimentei foi o "Currywurst", uma salsicha servida com molho de curry. O prato é simples, mas muito popular na cidade.'
+);
 
 criaCartao(
     'Ponto de Vista', 
-    'O que eu achei da viagem para ...?', 
-    'Informar através de um breve texto sobre o que achou da viagem, o que faria de diferente e por quê.'
-)
+    'O que eu achei da viagem para Berlim?', 
+    'A viagem foi incrível! Berlim é uma cidade vibrante, cheia de história e cultura. Se fosse fazer algo diferente, eu teria explorado mais museus e a vida noturna local.'
+);
