@@ -3,7 +3,7 @@ function criaCartao(categoria, pergunta, resposta, imagem) {
     let cartao = document.createElement('article');
     cartao.className = 'cartao';
 
-       cartao.innerHTML = `
+    cartao.innerHTML = `
         <div class="cartao__conteudo">
             <h3>${categoria}</h3>
             <div class="cartao__conteudo__pergunta">
@@ -26,9 +26,15 @@ function criaCartao(categoria, pergunta, resposta, imagem) {
 
     container.appendChild(cartao);
 }
+
 criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
     'https://cdn.temporadalivre.com/uploads/editor/pictures/8bc9aab356b1/content_Jardim_Bot%C3%A2nico_de_Curitiba_reabre_com_cuidados_red.jpg'
 );
+
+// Cores da bandeira da Alemanha (preto, vermelho, dourado)
+document.body.style.backgroundColor = '#000000'; // Preto
+document.querySelector('h3').style.color = '#FF0000'; // Vermelho
+document.querySelector('.cartao').style.borderColor = '#FFD700'; // Dourado
