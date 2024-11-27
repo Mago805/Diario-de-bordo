@@ -31,7 +31,7 @@ criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
-    'https://cdn.temporadalivre.com/uploads/editor/pictures/8bc9aab356b1/content_Jardim_Bot%C3%A2nico_de_Curitiba_reabre_com_cuidados_red.jpg'
+    'https://photos.app.goo.gl/4JTC8C89usfChsta8'
 );
 
 // Cores da bandeira da Alemanha (preto, vermelho, dourado)
